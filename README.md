@@ -1,2 +1,2 @@
 # literate-memory
-store of Punk nfts
+store of Punk Nfts
